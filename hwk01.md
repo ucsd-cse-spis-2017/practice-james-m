@@ -25,3 +25,6 @@ also come up with a practice quiz/exam question you might pose to a friend if yo
 The syntax of a computer language is very important in understanding the types and effects of the errors that can be produced. Similar to
 the english language, computer language must be formed into the appropriate sytax, which is the word formation order, in order to make sense
 to the compiler or the interpreter.
+1. What is the most dangerous type of error? Errors that are not syntactical.
+2. What is the syntax of a computer language?
+3. What is the relevance of the Turing hypothesis?
